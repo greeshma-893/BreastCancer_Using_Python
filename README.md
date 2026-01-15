@@ -1,4 +1,8 @@
 # Breast Cancer Detection using Machine Learning
+## Results
+- Model Accuracy: ~95% (may vary)
+- Evaluated using train-test split
+
 
 ## Dataset
 - sklearn Breast Cancer Dataset
